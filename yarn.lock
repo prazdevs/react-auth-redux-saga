@@ -6633,10 +6633,10 @@ json-server-auth@^2.0.2:
     jsonwebtoken "^8.5.1"
     yargs "^15.3.1"
 
-json-server@^0.16.1:
-  version "0.16.1"
-  resolved "https://registry.yarnpkg.com/json-server/-/json-server-0.16.1.tgz#1d3cb19087f5cb5040d94a49d99472102b2859d9"
-  integrity sha512-aVUTdpt+X27iIuWuxBChJywykPSP4opEiFrH044pG+34Gde3eHZRTzeMyx8ts5/kY2gK1Ru2YBmF2k/vI0lQug==
+json-server@^0.16.2:
+  version "0.16.2"
+  resolved "https://registry.yarnpkg.com/json-server/-/json-server-0.16.2.tgz#72545a34a1f0ca24b9fb05b5ca1dece7e7dc3229"
+  integrity sha512-USmSODvmBvt9Z7M3e4AHGHzLBcFlNkQMVOOqtB/h/k79JQI4saPcWniYvD5zf0kE3oGNR9VJzcHKzT8fZ9kEtw==
   dependencies:
     body-parser "^1.19.0"
     chalk "^3.0.0"
@@ -6655,7 +6655,6 @@ json-server@^0.16.1:
     nanoid "^2.1.11"
     please-upgrade-node "^3.2.0"
     pluralize "^8.0.0"
-    request "^2.88.2"
     server-destroy "^1.0.1"
     update-notifier "^4.0.0"
     yargs "^15.1.0"
@@ -9522,7 +9521,7 @@ request-promise-native@^1.0.5:
     stealthy-require "^1.1.1"
     tough-cookie "^2.3.3"
 
-request@^2.87.0, request@^2.88.0, request@^2.88.2:
+request@^2.87.0, request@^2.88.0:
   version "2.88.2"
   resolved "https://registry.yarnpkg.com/request/-/request-2.88.2.tgz#d73c918731cb5a87da047e207234146f664d12b3"
   integrity sha512-MsvtOrfG9ZcrOwAW+Qi+F6HbD0CWXEh9ou77uOb7FM2WPhwT7smM833PzanhJLsgXjN89Ir6V2PczXNnMpwKhw==
